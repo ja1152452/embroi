@@ -107,7 +107,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="auth-container">
         <div class="auth-logo">
             <img src="assets/images/logo.png" alt="Shop Logo" onerror="this.src='assets/images/logo.png'">
-            <h1 class="auth-title">Aling Hera's Online Shop</h1>
+            <h1 class="auth-title">Aling Hera's Online Shoping</h1>
         </div>
 
         <?php if(!empty($error)): ?>
@@ -122,7 +122,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
 
             <div class="form-group">
-                <h2 class="auth-subtitle">Password</h2>
+                <h2 class="auth-subtitle">Passdog</h2>
                 <div class="password-field">
                     <input type="password" name="password" id="password" class="form-control" placeholder="Enter your password" required>
                     <button type="button" class="password-toggle" onclick="togglePassword()">
