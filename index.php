@@ -15,7 +15,7 @@ if (isset($_SESSION['login_success']) && $_SESSION['login_success'] === true) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aling Hera's Embroidery | Premium Handcrafted Embroidery</title>
+    <title>Aling Hera's Embroidery</title>
     <meta name="description" content="Discover our exquisite collection of handcrafted embroidered products, meticulously created with passion and precision for men, women, and kids.">
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
