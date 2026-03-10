@@ -107,7 +107,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="auth-container">
         <div class="auth-logo">
             <img src="assets/images/logo.png" alt="Shop Logo" onerror="this.src='assets/images/logo.png'">
-            <h1 class="auth-title">Aling Hera's Online Shoping</h1>
+            <h1 class="auth-title">burat</h1>
         </div>
 
         <?php if(!empty($error)): ?>
